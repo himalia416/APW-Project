@@ -1,0 +1,14 @@
+venv/
+.idea
+temp/
+comparison_score_morphed.csv
+comparison_score.csv
+comparison_score_genuine.csv
+comparison_score_imposter.csv
+comparison_score_imposter_v1.csv
+comparison_score_morphed1.csv
+comparison_score_morphed2.csv
+Comparison score of bona ﬁde, morphing attack and imposter.png
+Vulnerability assessment-ArcFace.png
+data/
+checkpoint/backbone_ir50_ms1m_epoch120.pth
